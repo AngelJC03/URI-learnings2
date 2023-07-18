@@ -1,1 +1,1 @@
-# URI-learnings2
+# GitPractice
